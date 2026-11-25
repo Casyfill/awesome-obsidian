@@ -200,6 +200,7 @@ First-party tools maintained by the Obsidian team that extend the core applicati
 * **[Execute Code](https://github.com/twibiral/obsidian-execute-code)** `🖥️` — Execute Python, JS, Bash, C++, Rust, R, and Go code blocks directly inside notes and display inline output.
 * **[Shiki Highlighter](https://github.com/mProjectsCode/obsidian-shiki-plugin)** — Replaces default Prism syntax highlighting with VS Code's Shiki engine and themes.
 * **[Code Block Enhancer](https://github.com/nyable/obsidian-code-block-enhancer)** — Adds one-click copy buttons, line numbers, language badges, and code folding.
+* **[Codeblock Customizer](https://github.com/mugiwara85/CodeblockCustomizer)** — Styles code blocks with themes, custom syntax colors, line highlighting, headers with file names and language icons, folding, and line numbers. Also adds tabbed code block groups, terminal prompts, comment annotations, inline code highlighting, and a "copy as image" button.
 * **[CustomJS](https://github.com/saml-dev/obsidian-custom-js)** — Reuse modular JavaScript classes across DataviewJS and Templater scripts.
 * **[Custom Frames](https://github.com/Ellpeck/ObsidianCustomFrames)** `🖥️` — Embed external web apps (Google Calendar, Todoist, Notion, local dev dashboards) as native panes.
 
