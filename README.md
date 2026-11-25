@@ -317,3 +317,4 @@ Resources for building your own Obsidian plugins, themes, and scripts.
 * **[Official Obsidian Discord](https://obsidian.md/community)** `🌐` — Active real-time community with dedicated channels for `#plugin-dev`, `#appearance`, `#academia`, and `#dataview`.
 * **[r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/)** — Active Reddit community sharing vault setups, plugin discoveries, and troubleshooting tips.
 * **[Obsidian Stats](https://www.obsidianstats.com/)** — Searchable analytics directory tracking new plugins, download trends, themes, and release updates.
+* [**YouTube notes to Obsidian**](https://videonotes.dev/youtube-notes-to-obsidian) — Illustrated guide to capturing timestamped YouTube notes with Video Notes, copying Markdown, and pasting it into an Obsidian vault.
