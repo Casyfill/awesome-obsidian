@@ -87,6 +87,7 @@ First-party tools maintained by the Obsidian team that extend the core applicati
 * **[Reminder](https://github.com/uphy/obsidian-reminder)** — Adds date/time reminders to Markdown tasks with native desktop notifications.
 * **[Toggl Track](https://github.com/mcndt/obsidian-toggl-track)** — Start, stop, and report Toggl time entries directly from Obsidian.
 * **[Supercharged Links](https://github.com/mdelobelle/obsidian-supercharged-links)** — Style internal links dynamically with icons and colors based on the target note's YAML properties or tags.
+* **[TaskNotes](https://github.com/callumalpass/tasknotes)** — Note-based task management where every task is its own Markdown note, with Bases-powered list, Kanban, and calendar views plus Pomodoro and time tracking.
 
 ### Calendar & Daily Notes
 
@@ -135,6 +136,7 @@ First-party tools maintained by the Obsidian team that extend the core applicati
 * **[Better Word Count](https://github.com/lukeleppan/better-word-count)** — Accurate live word/character counts for selections while ignoring frontmatter and comments.
 * **[LanguageTool Integration](https://github.com/Clemens-E/obsidian-languagetool-plugin)** — Grammar, spellcheck, and style suggestions inside the editor.
 * **[Creases](https://github.com/liamcain/obsidian-creases)** — Granular folding commands and fold markers for headings and lists.
+* **[StoryLine](https://github.com/PixeroJan/obsidian-storyline)** — Book-planning workspace with corkboard, timeline, plotlines, and character tracking for long-form fiction. *Caveat: character relationships don't sync bidirectionally, so the cast list has to be maintained by hand.*
 
 ### UI, Layout & Navigation
 
@@ -149,6 +151,7 @@ First-party tools maintained by the Obsidian team that extend the core applicati
 * **[Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus)** — Quickly switch between saved window and pane layouts from the status bar.
 * **[Home Tab](https://github.com/olrenso/obsidian-home-tab)** — Replaces blank new tabs with a browser-style search bar and recent/pinned files.
 * **[MAKE.md](https://github.com/Make-md/makemd)** — Reimagines Obsidian with Notion-like spaces, flow blocks, and visual navigation.
+*  **[Note Toolbar](https://github.com/chrisgurney/obsidian-note-toolbar)** — Attach customizable toolbars to individual notes, folders, or the whole vault, with buttons that run commands, open links, or insert text. Works on mobile.
 
 ### Data, Databases & Spreadsheets
 
@@ -183,7 +186,7 @@ First-party tools maintained by the Obsidian team that extend the core applicati
 * **[Enhancing Export](https://github.com/mokeyish/obsidian-enhancing-export)** `🖥️` — GUI wrapper around Pandoc supporting dozens of academic and publishing export formats.
 * **[Citations](https://github.com/hans/obsidian-citation-plugin)** — Search BibTeX / CSL-JSON libraries and generate standardized literature notes.
 * **[TikZJax](https://github.com/artisticat1/obsidian-tikzjax)** — Compile and render LaTeX TikZ graphics and commutative diagrams natively.
-* **[Admonition](https://github.com/javalent/admonitions)** — Create custom callout blocks (Theorem, Proof, Lemma, Example) with tailored icons and colors.
+* **[Admonition](https://github.com/javalent/admonitions)** — Create custom callout blocks (Theorem, Proof, Lemma, Example) with tailored icons and colors. *Core callouts (`> [!note]`) now cover most styling needs — reach for this only when you need custom callout types.*
 
 ### Media, PDF & Attachments
 
@@ -290,6 +293,7 @@ Migrate existing archives into clean Obsidian-compatible Markdown.
 
 Explore ready-made architectures to learn PKM workflows by example.
 
+* **[Obsidian Community Vaults Gallery](https://vaults.obsidian-community.com/)** — Browsable gallery of published community vaults with screenshots and source links — the fastest way to see how other people structure a real vault before committing to your own.
 * **[Kepano's Obsidian Vault](https://stephango.com/vault)** `⭐` — Minimalist, folder-light reference vault by Obsidian CEO Steph Ango demonstrating properties, Bases, and evergreen notes.
 * **[Linking Your Thinking (LYT) Kit](https://www.linkingyourthinking.com/lyt-kit)** — Nick Milo's hands-on starter vault teaching Maps of Content (MOCs) and fluid note organization.
 * **[PARA Starter Kit](https://github.com/cotemaxime/obsidian-para-starter-kit)** — Pre-built vault structured around Tiago Forte's *Projects, Areas, Resources, Archives* framework.
